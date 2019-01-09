@@ -28,3 +28,4 @@ Hopefully, we will be able to code an AI to present the **NEWS** in a different 
 
 The idea is simple: We will present the AI based **NEWS** channel with computerized voice. 
 ##
+[![AI in China](https://img.youtube.com/vi/4Gk6mxKXKTk/0.jpg)](https://www.youtube.com/watch?v=4Gk6mxKXKTk)
