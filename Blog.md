@@ -1,4 +1,4 @@
-Our self **Mohamed Imran**, **Abdul Majeed**, **Mohammed Kabir** and **Mohammed Talha** and this is the log of our progress in the _100 Days of ML code challenge_
+Our self [Mohammed Imran](https://github.com, [Mohammed Imran](https://github.com, **Mohammed Kabir** and [Mohammed Talha](https://github.com/mohammedtalhas) and this is the log of our progress in the _100 Days of ML code challenge_
 
 ![Image from 100 Days of ML Code Challenge Siraj's Video](https://pbs.twimg.com/media/DnSpGyWX4AAZnSo.jpg)
 
