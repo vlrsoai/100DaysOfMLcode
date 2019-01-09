@@ -12,3 +12,5 @@ I'm following guidelines from [Siraj Raval](https://sirajraval.com): Click on th
 3. Locate a Dataset
 4. Apply AI to Data
 5. Create a Solution
+
+**DAY 0**
